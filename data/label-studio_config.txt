@@ -1,6 +1,6 @@
 <View>
   <Labels name="label" toName="VN">
-
+ <Label value="O" background="black"/> 
     
     <Label value="B-fromloc.airport_name" background="#482"/>
     <Label value="I-fromloc.airport_name" background="#482"/>
@@ -364,7 +364,7 @@
     <Label value="B-toloc.city_name" background="red"/>
     <Label value="I-toloc.city_name" background="orange"/>
     
-    <Label value="O" background="black"/> 
+   
   </Labels>
   <Text name="En" value="$En"/>
   <Text name="IOB" value="$IOB"/>
