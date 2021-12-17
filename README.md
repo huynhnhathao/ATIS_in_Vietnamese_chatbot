@@ -1,2 +1,2 @@
-# ATIS_in_Vietnamese_chatbot
+# Intent detection and slot filling in the translated ATIS dataset
 
